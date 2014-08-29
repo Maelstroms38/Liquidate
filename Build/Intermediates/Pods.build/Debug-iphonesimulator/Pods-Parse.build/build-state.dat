@@ -1,0 +1,162 @@
+TPods-Parse
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-cjrlmwbsmwfcyfgjbmjxqliorltj/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/x86_64/Pods-Parse-dummy.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000053F4C0880000000000CF7800
+t1408549000
+s13596672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053F4C088000000000063A500
+t1408549000
+s6530304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053F4C08800000000004D7BC0
+t1408549000
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000053F4C0880000000000152370
+t1408549000
+s1385328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053F4C0890000000000A90C10
+t1408549001
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000053F4C0890000000000210E90
+t1408549001
+s2166416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053F4C08A0000000000649DB0
+t1408549002
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053F4C08A0000000000186D60
+t1408549002
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit
+c0000000053F4C08A0000000000099D80
+t1408549002
+s630144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000053F4C08A00000000001A2B00
+t1408549002
+s1714944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053F4C09C00000000000003B4
+t1408549020
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053F4C0A5000000000000019E
+t1408549029
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053F4C10F0000000000000ADC
+t1408549135
+s2780
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/x86_64/Pods-Parse-dummy.o
+t1409327099
+s3868
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/x86_64/Pods-Parse.LinkFileList
+c0000000054009FFB000000000000009F
+t1409327099
+s159
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-cjrlmwbsmwfcyfgjbmjxqliorltj/Pods-Parse-prefix.pch.pch
+t1409327099
+s126536
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/libPods-Parse.a
+t1409327099
+s4152
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-dummy.m
+c0000000053FC9372000000000000007C
+t1409061746
+s124
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-prefix.pch
+c0000000053FC9372000000000000004D
+t1409061746
+s77
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-environment.h
+c0000000053FC937200000000000005C5
+t1409061746
+s1477
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9510b025dfb0b941^a14bb025dfb0b941^---0#1#1#--18"Check dependencies36"E15D37E6-0696-4595-A212-AAD0CC18B0FC-
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/x86_64/Pods-Parse-dummy.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431019899.542164
+e431019899.568095
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/x86_64/Pods-Parse-dummy.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-dummy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-dummy.m256"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/x86_64/Pods-Parse-dummy.o Pods-Parse-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler61df8a7bd7b0b941^ca6f917bd7b0b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-dummy.m0000000000000000^4505"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/x86_64/Pods-Parse-dummy.o Pods-Parse-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/DerivedSources/x86_64 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator -F/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-cjrlmwbsmwfcyfgjbmjxqliorltj/Pods-Parse-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/x86_64/Pods-Parse-dummy.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/x86_64/Pods-Parse-dummy.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-dummy.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/x86_64/Pods-Parse-dummy.o36"66D46D9C-48E9-40EC-9D4F-32FA4C4E0D91-
+b7072414F-7B44-4CA8-8C2E-5BACBC1088AD
+
+CLibtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal x86_64
+s431019899.568897
+e431019899.573445
+r1
+xLibtool
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/libPods-Parse.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Libtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal x86_64122"Libtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal x86_6453b1917bd7b0b941^89ce927bd7b0b941^---0#0#1#--1276"Libtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal x86_64    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator -filelist /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/x86_64/Pods-Parse.LinkFileList -framework AudioToolbox -framework CFNetwork -framework CoreGraphics -framework CoreLocation -framework Foundation -framework MobileCoreServices -framework QuartzCore -framework Security -framework StoreKit -framework SystemConfiguration -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/libPods-Parse.a36"0EB346C9-7607-45B3-B95B-AD60DFBF18C8-
+b7072414F-7B44-4CA8-8C2E-5BACBC1088AD
+
+CProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-cjrlmwbsmwfcyfgjbmjxqliorltj/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431019899.507644
+e431019899.541575
+r1
+xProcessPCH
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-cjrlmwbsmwfcyfgjbmjxqliorltj/Pods-Parse-prefix.pch.pch
+xPods-Parse-prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-prefix.pch
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile Pods-Parse-prefix.pch262"ProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-cjrlmwbsmwfcyfgjbmjxqliorltj/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf110827bd7b0b941^1ea58a7bd7b0b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-prefix.pch0000000000000000^4355"ProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-cjrlmwbsmwfcyfgjbmjxqliorltj/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/DerivedSources/x86_64 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator -F/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-cjrlmwbsmwfcyfgjbmjxqliorltj/Pods-Parse-prefix.pch.dia -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-cjrlmwbsmwfcyfgjbmjxqliorltj/Pods-Parse-prefix.pch.d -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Parse-prefix.pch -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-cjrlmwbsmwfcyfgjbmjxqliorltj/Pods-Parse-prefix.pch.pch36"519A64D4-1F32-44D8-81E9-3508B25F9AFC-
+b7072414F-7B44-4CA8-8C2E-5BACBC1088AD
+
+CProcessPCH /Users/michaelstromer/Library/Developer/Xcode/DerivedData/Liquidate-brasqpwrwungqyghkvchosfdvznu/Index/PrecompiledHeaders/Pods-Parse-prefix-fajyhgrctrwpqiageeigxyqpyjoj_ast/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

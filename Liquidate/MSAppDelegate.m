@@ -7,13 +7,44 @@
 //
 
 #import "MSAppDelegate.h"
+#import <Crashlytics/Crashlytics.h>
 
 @implementation MSAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [Parse setApplicationId:@"ZjnXdkw9dvBj2oH4HTkIaHVgEE06NukWMlAGBmtS"
+                  clientKey:@"35052AzNks2uEwKlOjxignOHibBY5eP0312xLFiY"];
+    
+    [PFFacebookUtils initializeFacebook];
+    
+    NSString *defaultPrefsFile = [[NSBundle mainBundle] pathForResource:@"defaultPrefsFile" ofType:@"plist"];
+    NSDictionary *defaultPreferences = [NSDictionary dictionaryWithContentsOfFile:defaultPrefsFile];
+    [[NSUserDefaults standardUserDefaults] registerDefaults:defaultPreferences];
+    
+    [[UINavigationBar appearance] setBarTintColor:[UIColor whiteColor]];
+    
+    [[UINavigationBar appearance] setTitleTextAttributes:@{NSForegroundColorAttributeName : [UIColor colorWithRed:12/255.0 green:158/255.0 blue:255/255.0 alpha:1.0], NSFontAttributeName : [UIFont fontWithName:@"HelveticaNeue-Light" size:20.0]}];
+    
+    [Crashlytics startWithAPIKey:@"c5ddfb7195f34c37d2c85d39ad103c15400484d4"];
+
     return YES;
+}
+
+- (BOOL)application:(UIApplication *)application
+            openURL:(NSURL *)url
+  sourceApplication:(NSString *)sourceApplication
+         annotation:(id)annotation {
+    return [FBAppCall handleOpenURL:url
+                  sourceApplication:sourceApplication
+                        withSession:[PFFacebookUtils session]];
+}
+
+- (void)applicationDidBecomeActive:(UIApplication *)application {
+    
+    [FBAppCall handleDidBecomeActiveWithSession:[PFFacebookUtils session]];
+    
 }
 							
 - (void)applicationWillResignActive:(UIApplication *)application
@@ -31,11 +62,6 @@
 - (void)applicationWillEnterForeground:(UIApplication *)application
 {
     // Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
-}
-
-- (void)applicationDidBecomeActive:(UIApplication *)application
-{
-    // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
 }
 
 - (void)applicationWillTerminate:(UIApplication *)application

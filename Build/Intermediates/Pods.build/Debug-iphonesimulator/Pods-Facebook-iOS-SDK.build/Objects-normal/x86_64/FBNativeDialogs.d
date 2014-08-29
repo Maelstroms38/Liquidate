@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBNativeDialogs.m \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBNativeDialogs.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBAppCall.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBAccessTokenData.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBAppLinkData.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBDialogsData.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBOpenGraphActionShareDialogParams.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBOpenGraphActionParams.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBDialogsParams.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBShareDialogParams.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBLinkShareParams.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Login/FBAccessTokenData+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBAppBridge.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBAppCall+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Insights/FBAppEvents+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBAppEvents.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Core/FBAppLinkData+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogs+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBDialogs.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBPhotoParams.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBLikeDialogParams.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogsData+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogsParams+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBError.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Core/FBUtility.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Core/FBFetchedAppSettings.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Core/FBLogger.h

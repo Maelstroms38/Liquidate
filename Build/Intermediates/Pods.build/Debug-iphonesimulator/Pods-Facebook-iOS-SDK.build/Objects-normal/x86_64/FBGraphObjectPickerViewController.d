@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/UI/FBGraphObjectPickerViewController.m \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/UI/FBGraphObjectPickerViewController+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Network/FBGraphObjectPagingLoader.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Network/FBGraphObjectTableDataSource.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBGraphObjectPickerViewController.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBViewController.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Network/FBGraphObjectTableSelection.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Core/FBLogger.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Login/FBSession+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Login/FBSessionAppEventsState.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Login/FBSystemAccountStoreAdapter.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBTask.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBTaskCompletionSource.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBSettings.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Core/FBUtility.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Core/FBFetchedAppSettings.h

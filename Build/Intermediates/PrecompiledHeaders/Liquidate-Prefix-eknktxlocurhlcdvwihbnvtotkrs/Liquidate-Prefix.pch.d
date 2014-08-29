@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/Liquidate-Prefix.pch \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/Parse.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFACL.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFAnalytics.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFAnonymousUtils.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFUser.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFConstants.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFObject.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFSubclassing.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFCloud.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFFile.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFGeoPoint.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFQuery.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFRelation.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFRole.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFImageView.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFInstallation.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFLogInViewController.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFLogInView.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFSignUpViewController.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFSignUpView.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFProduct.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFProductTableViewController.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFQueryTableViewController.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFTableViewCell.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFPurchase.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFPush.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFTwitterUtils.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PF_Twitter.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFFacebookUtils.h

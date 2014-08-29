@@ -1,0 +1,326 @@
+TLiquidate
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Script-DA52F90BF9254E6CA5FE3DD4.sh
+cProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch.pch Liquidate/Liquidate-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSTransitionAnimator.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTransitionAnimator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSHomeViewController.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSAppDelegate.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSMatchViewController.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053F4C09C00000000000003B4
+t1408549020
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053F4C0A5000000000000019E
+t1408549029
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053F4C10F0000000000000ADC
+t1408549135
+s2780
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSAppDelegate.o
+t2
+s0
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSConstants.o
+t2
+s0
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSHomeViewController.o
+t2
+s0
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSMatchViewController.o
+t2
+s0
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSTransitionAnimator.o
+t2
+s0
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Script-DA52F90BF9254E6CA5FE3DD4.sh
+c0000000054009FFC0000000000000103
+t1409327100
+s259
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch.pch
+t1409327100
+s529444
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/Liquidate-Prefix.pch
+c0000000053FDF33400000000000001E5
+t1409151796
+s485
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSAppDelegate.m
+c0000000054009D570000000000000C74
+t1409326423
+s3188
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSConstants.m
+c0000000053FF71CE0000000000000964
+t1409249742
+s2404
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m
+c0000000054009E680000000000003A46
+t1409326696
+s14918
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchViewController.m
+c0000000053FFC66E0000000000000669
+t1409271406
+s1641
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTransitionAnimator.m
+c0000000053FC8F2400000000000009D8
+t1409060644
+s2520
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSAppDelegate.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSChatViewController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSConstants.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSEditProfileViewController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSLoginViewController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchViewController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchesViewController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSProfileViewController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSSettingsViewController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTestUser.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTransitionAnimator.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf67d387cd7b0b941^7d073b7cd7b0b941^---0#1#1#--18"Check dependencies36"31B1EC9B-26A8-44F3-BE36-569908C72872-
+
+CCompileAssetCatalog /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/Liquidate.app /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/Images.xcassets
+r0
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSAppDelegate.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431019900.318043
+e431019900.496666
+r1
+xCompileC
+xBuild/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSAppDelegate.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSAppDelegate.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSAppDelegate.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Crashlytics.framework/Headers/Crashlytics.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSAppDelegate.m216"CompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSAppDelegate.o Liquidate/MSAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6b9c517cd7b0b941^a5307f7cd7b0b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSAppDelegate.m0000000000000000^5190"CompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSAppDelegate.o Liquidate/MSAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/DerivedSources/x86_64 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator -F/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse -F/Users/michaelstromer/Documents/Codes/Liquidate -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSAppDelegate.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSAppDelegate.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSAppDelegate.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSAppDelegate.o36"2402FF28-B12A-4A5D-8836-C80C50760C1F-
+b3F5DD0F7-DFB9-47A6-A2BE-615FDD988E33
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSChatViewController.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSChatViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSConstants.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSConstants.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSEditProfileViewController.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSEditProfileViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSHomeViewController.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431019900.317677
+e431019900.395516
+r0
+xCompileC
+xBuild/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSHomeViewController.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTestUser.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSProfileViewController.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchViewController.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTransitionAnimator.h
+o/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m:93:33: error: property 'buttonContainerView' not found on object of type 'MSHomeViewController *'
+o    [self addShadowForView:self.buttonContainerView];
+o                                ^
+o/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m:94:33: error: property 'labelContainerView' not found on object of type 'MSHomeViewController *'
+o    [self addShadowForView:self.labelContainerView];
+o                                ^
+o/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m:245:18: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int' [-Wshorten-64-to-32]
+o    int maxAge = [[NSUserDefaults standardUserDefaults] integerForKey:kCCAgeMaxKey];
+o        ~~~~~~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o1 warning and 2 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m230"CompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSHomeViewController.o Liquidate/MSHomeViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere868517cd7b0b941^cc44657cd7b0b941^-933"/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m:93:33: error: property 'buttonContainerView' not found on object of type 'MSHomeViewController *'    [self addShadowForView:self.buttonContainerView];                                ^/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m:94:33: error: property 'labelContainerView' not found on object of type 'MSHomeViewController *'    [self addShadowForView:self.labelContainerView];                                ^/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m:245:18: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int' [-Wshorten-64-to-32]    int maxAge = [[NSUserDefaults standardUserDefaults] integerForKey:kCCAgeMaxKey];        ~~~~~~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~1 warning and 2 errors generated.3(36%IDEClangDiagnosticActivityLogMessage2@83"Property 'buttonContainerView' not found on object of type 'MSHomeViewController *'-431019900#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@87"file:///Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m0000000000000000^92#32#92#32#2662#0#14"Semantic Issue--2@82"Property 'labelContainerView' not found on object of type 'MSHomeViewController *'-431019900#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m0000000000000000^93#32#93#32#2716#0#14"Semantic Issue--2@78"Implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int'-431019900#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m0000000000000000^244#17#244#17#7565#0#22"Value Conversion Issue2(3@87"file:///Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m0000000000000000^244#17#244#83#7565#65#3@87"file:///Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m0000000000000000^244#8#244#14#7556#0#-0#0#1#-19%DVTDocumentLocation4@87"file:///Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m0000000000000000^5232"CompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSHomeViewController.o Liquidate/MSHomeViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/DerivedSources/x86_64 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator -F/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse -F/Users/michaelstromer/Documents/Codes/Liquidate -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSHomeViewController.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSHomeViewController.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSHomeViewController.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSHomeViewController.o36"21E6B187-BEC9-472F-AC4D-EB32ED01BFCB-
+b3F5DD0F7-DFB9-47A6-A2BE-615FDD988E33
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSLoginViewController.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSLoginViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSMatchViewController.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431019900.318937
+e431019900.496228
+r0
+xCompileC
+xBuild/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSMatchViewController.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchViewController.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchViewController.m232"CompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSMatchViewController.o Liquidate/MSMatchViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3bc2517cd7b0b941^a5157f7cd7b0b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchViewController.m0000000000000000^5238"CompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSMatchViewController.o Liquidate/MSMatchViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/DerivedSources/x86_64 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator -F/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse -F/Users/michaelstromer/Documents/Codes/Liquidate -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSMatchViewController.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSMatchViewController.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchViewController.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSMatchViewController.o36"257EDA37-B2AE-4103-A483-0F52259D7D2D-
+b3F5DD0F7-DFB9-47A6-A2BE-615FDD988E33
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSMatchesViewController.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSMatchesViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSProfileViewController.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSProfileViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSSettingsViewController.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSSettingsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSTestUser.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTestUser.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSTransitionAnimator.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTransitionAnimator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431019900.317284
+e431019900.496210
+r1
+xCompileC
+xBuild/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSTransitionAnimator.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTransitionAnimator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTransitionAnimator.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTransitionAnimator.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTransitionAnimator.m230"CompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSTransitionAnimator.o Liquidate/MSTransitionAnimator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb459517cd7b0b941^f6297f7cd7b0b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTransitionAnimator.m0000000000000000^5232"CompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSTransitionAnimator.o Liquidate/MSTransitionAnimator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/DerivedSources/x86_64 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator -F/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse -F/Users/michaelstromer/Documents/Codes/Liquidate -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSTransitionAnimator.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSTransitionAnimator.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSTransitionAnimator.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/MSTransitionAnimator.o36"CAB59B5A-72F3-4E46-ABF7-9C27477C92E4-
+b3F5DD0F7-DFB9-47A6-A2BE-615FDD988E33
+
+CCompileC Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Objects-normal/x86_64/main.o /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/Main.storyboard
+r0
+
+CCopyPlistFile /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/Liquidate.app/defaultPrefsFile.plist Liquidate/defaultPrefsFile.plist
+r0
+
+CCopyStringsFile /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/Liquidate.app/en.lproj/InfoPlist.strings Liquidate/en.lproj/InfoPlist.strings
+r0
+
+CCpResource Liquidate/Winston.jpg Build/Products/Debug-iphonesimulator/Liquidate.app/Winston.jpg
+r0
+
+CGenerateDSYMFile /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/Liquidate.app.dSYM /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/Liquidate.app/Liquidate
+r0
+
+CLd /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/Liquidate.app/Liquidate normal x86_64
+r0
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Script-DA52F90BF9254E6CA5FE3DD4.sh
+s431019900.232157
+e431019900.244398
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Script-DA52F90BF9254E6CA5FE3DD4.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'156"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Script-DA52F90BF9254E6CA5FE3DD4.sh87e13b7cd7b0b941^b8913e7cd7b0b941^---0#0#1#--384"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Script-DA52F90BF9254E6CA5FE3DD4.sh    cd /Users/michaelstromer/Documents/Codes/Liquidate    /bin/sh -c /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Script-DA52F90BF9254E6CA5FE3DD4.sh36"49FB19D0-6A7A-4740-B2C6-E5E4DB6593BC-
+b3F5DD0F7-DFB9-47A6-A2BE-615FDD988E33
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Script-2994B8A4956E4BE9988B84BC.sh
+r0
+
+CPhaseScriptExecution Run\ Script /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Script-B140B02D19A783CD00041A4E.sh
+r0
+
+CProcessInfoPlistFile /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/Liquidate.app/Info.plist /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/Liquidate-Info.plist
+r0
+
+CProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch.pch Liquidate/Liquidate-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431019900.245220
+e431019900.316473
+r1
+xProcessPCH
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch.pch
+xLiquidate/Liquidate-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/Liquidate-Prefix.pch
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/Parse.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFACL.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFAnalytics.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFAnonymousUtils.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFUser.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFConstants.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFObject.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFSubclassing.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFCloud.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFFile.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFGeoPoint.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFQuery.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFRelation.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFRole.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFImageView.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFInstallation.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFLogInViewController.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFLogInView.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFSignUpViewController.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFSignUpView.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFProduct.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFProductTableViewController.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFQueryTableViewController.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFTableViewCell.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFPurchase.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFPush.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFTwitterUtils.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PF_Twitter.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse/Parse.framework/Headers/PFFacebookUtils.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/MSConstants.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile Liquidate/Liquidate-Prefix.pch221"ProcessPCH Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch.pch Liquidate/Liquidate-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler61e33e7cd7b0b941^3107517cd7b0b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/Liquidate-Prefix.pch0000000000000000^5034"ProcessPCH Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch.pch Liquidate/Liquidate-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/Liquidate-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/DerivedSources/x86_64 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Liquidate.build/Debug-iphonesimulator/Liquidate.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator -F/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Parse -F/Users/michaelstromer/Documents/Codes/Liquidate -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -isystem /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch.dia -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch.d -c /Users/michaelstromer/Documents/Codes/Liquidate/Liquidate/Liquidate-Prefix.pch -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Liquidate-Prefix-axyfnfsfawxxdgbwbtgysrqyvaok/Liquidate-Prefix.pch.pch36"5F02ED21-105D-4E47-8921-73E0601354DD-
+b3F5DD0F7-DFB9-47A6-A2BE-615FDD988E33
+
+CProcessPCH /Users/michaelstromer/Library/Developer/Xcode/DerivedData/Liquidate-brasqpwrwungqyghkvchosfdvznu/Index/PrecompiledHeaders/Liquidate-Prefix-hhdrrajjaqxfxacynebctbvnstzv_ast/Liquidate-Prefix.pch.pch Liquidate/Liquidate-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphonesimulator/Liquidate.app
+r0
+

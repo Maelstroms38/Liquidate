@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/UI/FBLikeControl.m \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBLikeControl.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Insights/FBAppEvents+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBAppEvents.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogs+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBDialogs.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBAppCall.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBAccessTokenData.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBAppLinkData.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBDialogsData.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBLinkShareParams.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBDialogsParams.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBOpenGraphActionParams.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBPhotoParams.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBLikeDialogParams.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/UI/FBLikeActionController.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/UI/FBLikeBoxView.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/UI/FBLikeButton.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/UI/FBViewImpressionTracker.h

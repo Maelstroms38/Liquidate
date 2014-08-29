@@ -1,0 +1,750 @@
+TPods-Bolts
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-gtaasaokawhwlvaicrxiieimbvok/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLink.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFExecutor.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFMeasurementEvent.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTask.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFURL.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Bolts.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Pods-Bolts-dummy.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-Bolts.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c0000000053F4C086000000000000036B
+t1408548998
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053F4C086000000000000019E
+t1408548998
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053F4C0890000000000A90C10
+t1408549001
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053F4C10F0000000000000ADC
+t1408549135
+s2780
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLink.o
+t1409268639
+s15304
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o
+t1409268639
+s41280
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o
+t1409268639
+s87004
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o
+t1409268639
+s92212
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o
+t1409268639
+s10196
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFExecutor.o
+t1409268639
+s26268
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFMeasurementEvent.o
+t1409268639
+s12540
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTask.o
+t1409268639
+s62296
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o
+t1409268639
+s14984
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFURL.o
+t1409268639
+s32904
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o
+t1409268639
+s98768
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Bolts.o
+t1409268639
+s5412
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Pods-Bolts-dummy.o
+t1409268639
+s3740
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Pods-Bolts.LinkFileList
+c0000000053F74AC700000000000007AE
+t1408715463
+s1966
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch.pch
+t1409268637
+s92372
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-gtaasaokawhwlvaicrxiieimbvok/Pods-Bolts-prefix.pch.pch
+t1409268638
+s97516
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-Bolts.a
+t1409268639
+s508920
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.h
+c0000000053F64968000000000000066C
+t1408649576
+s1644
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.m
+c0000000053F649680000000000000DDF
+t1408649576
+s3551
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.h
+c0000000053F6496800000000000015B0
+t1408649576
+s5552
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.m
+c0000000053F64968000000000000287F
+t1408649576
+s10367
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h
+c0000000053F6496800000000000008AB
+t1408649576
+s2219
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m
+c0000000053F6496800000000000006BF
+t1408649576
+s1727
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.h
+c0000000053F6496800000000000003B7
+t1408649576
+s951
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.m
+c0000000053F6496800000000000001CD
+t1408649576
+s461
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BoltsVersion.h
+c0000000053F64968000000000000001F
+t1408649576
+s31
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.h
+c0000000053F649680000000000000682
+t1408649576
+s1666
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.m
+c0000000053F64968000000000000081F
+t1408649576
+s2079
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h
+c0000000053F649680000000000000DEA
+t1408649576
+s3562
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m
+c0000000053F6496800000000000026BE
+t1408649576
+s9918
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h
+c0000000053F649680000000000000352
+t1408649576
+s850
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h
+c0000000053F649680000000000000BA9
+t1408649576
+s2985
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m
+c0000000053F649680000000000002424
+t1408649576
+s9252
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h
+c0000000053F649680000000000000C40
+t1408649576
+s3136
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m
+c0000000053F649680000000000001D05
+t1408649576
+s7429
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView_Internal.h
+c0000000053F6496800000000000001B5
+t1408649576
+s437
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h
+c0000000053F649680000000000000413
+t1408649576
+s1043
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m
+c0000000053F649680000000000000394
+t1408649576
+s916
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink_Internal.h
+c0000000053F6496800000000000002AA
+t1408649576
+s682
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h
+c0000000053F6496800000000000006F0
+t1408649576
+s1776
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m
+c0000000053F6496800000000000007E7
+t1408649576
+s2023
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent_Internal.h
+c0000000053F649680000000000000224
+t1408649576
+s548
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.h
+c0000000053F649680000000000000A67
+t1408649576
+s2663
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.m
+c0000000053F649680000000000001DBD
+t1408649576
+s7613
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL_Internal.h
+c0000000053F6496800000000000001A4
+t1408649576
+s420
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h
+c0000000053F6496800000000000002A7
+t1408649576
+s679
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m
+c0000000053F649680000000000003852
+t1408649576
+s14418
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-dummy.m
+c0000000053FC9372000000000000007C
+t1409061746
+s124
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-prefix.pch
+c0000000053FC9372000000000000004D
+t1409061746
+s77
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-environment.h
+c0000000053FC937200000000000005C5
+t1409061746
+s1477
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdbfbb4bd06b0b941^f0a5d0bd06b0b941^---0#1#1#--18"Check dependencies36"61F03580-D400-4F0D-862A-3F8A569A2743-
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/BFAppLink.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/BFAppLinkNavigation.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererController.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererView.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/BFAppLinkTarget.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/BFExecutor.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/BFMeasurementEvent.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/BFTask.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/BFTaskCompletionSource.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/BFURL.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/BFWebViewAppLinkResolver.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/Bolts.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/Pods-Bolts-dummy.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLink.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.006090
+e430961439.059502
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLink.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink_Internal.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.m249"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLink.o Bolts/Bolts/iOS/BFAppLink.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9bac011ff3afb941^4f3c0f1ff3afb941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.m0000000000000000^4281"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLink.o Bolts/Bolts/iOS/BFAppLink.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLink.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLink.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLink.o36"61FACD3B-5DEA-49F3-B408-4FCEC4057480-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.023079
+e430961439.113404
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BoltsVersion.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent_Internal.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink_Internal.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m269"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o Bolts/Bolts/iOS/BFAppLinkNavigation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0804061ff3afb941^e6081d1ff3afb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m0000000000000000^4341"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o Bolts/Bolts/iOS/BFAppLinkNavigation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o36"5F985D93-7D88-4432-9870-3803C76CC98B-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.066980
+e430961439.189455
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView_Internal.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL_Internal.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m299"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler3544111ff3afb941^d880301ff3afb941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m0000000000000000^4431"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o36"50F8994C-6BB5-4E2F-928F-D9A73B9F3947-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.167343
+e430961439.317487
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m287"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera6f22a1ff3afb941^ae47511ff3afb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m0000000000000000^4395"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o36"0D53FF86-EEA1-47EB-88F2-9FC6C5BA5DB8-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.196324
+e430961439.250971
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m261"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o Bolts/Bolts/iOS/BFAppLinkTarget.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler616f321ff3afb941^dcd5471ff3afb941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m0000000000000000^4317"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o Bolts/Bolts/iOS/BFAppLinkTarget.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o36"60CA1A08-0C5B-4C22-8EF5-D7747FD3E91A-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFExecutor.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.251537
+e430961439.333558
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFExecutor.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.m254"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFExecutor.o Bolts/Bolts/Common/BFExecutor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerbf82401ff3afb941^5264551ff3afb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.m0000000000000000^4293"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFExecutor.o Bolts/Bolts/Common/BFExecutor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFExecutor.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFExecutor.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFExecutor.o36"4CDB21DE-344D-4E66-8229-05ACA83A37B9-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFMeasurementEvent.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.318314
+e430961439.373093
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFMeasurementEvent.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent_Internal.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m267"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFMeasurementEvent.o Bolts/Bolts/iOS/BFMeasurementEvent.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerfe9d511ff3afb941^31b6781ff3afb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m0000000000000000^4335"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFMeasurementEvent.o Bolts/Bolts/iOS/BFMeasurementEvent.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFMeasurementEvent.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFMeasurementEvent.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFMeasurementEvent.o36"A3203D6F-EC87-44D3-BC4A-2C89B275A022-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTask.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.349216
+e430961439.532478
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTask.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BoltsVersion.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.m246"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTask.o Bolts/Bolts/Common/BFTask.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compileraa82591ff3afb941^b9a5891ff3afb941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.m0000000000000000^4269"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTask.o Bolts/Bolts/Common/BFTask.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTask.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTask.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTask.o36"36E084C1-E404-45C4-A65A-BAB002D76350-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.379285
+e430961439.440911
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m278"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o Bolts/Bolts/Common/BFTaskCompletionSource.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compileraf7d611ff3afb941^69c4781ff3afb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m0000000000000000^4365"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o Bolts/Bolts/Common/BFTaskCompletionSource.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o36"766AB59B-810D-4B12-A7EA-41B1A030AEA5-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFURL.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.441155
+e430961439.524615
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFURL.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL_Internal.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink_Internal.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent_Internal.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.m241"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFURL.o Bolts/Bolts/iOS/BFURL.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler800c711ff3afb941^e962871ff3afb941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.m0000000000000000^4257"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFURL.o Bolts/Bolts/iOS/BFURL.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFURL.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFURL.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFURL.o36"ED15DE76-E2A6-4974-8432-29D8184C644B-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.524847
+e430961439.662973
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m279"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler967a861ff3afb941^fbb0aa1ff3afb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m0000000000000000^4371"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o36"BA51F506-DEF2-40F9-AA7A-37860971A516-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Bolts.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.533316
+e430961439.587632
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Bolts.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BoltsVersion.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.m244"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Bolts.o Bolts/Bolts/Common/Bolts.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerdba2881ff3afb941^e8a5aa1ff3afb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.m0000000000000000^4263"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Bolts.o Bolts/Bolts/Common/Bolts.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Bolts.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Bolts.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Bolts.o36"E567C374-86C3-487D-B387-54378BCEFF18-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Pods-Bolts-dummy.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961439.550538
+e430961439.594947
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Pods-Bolts-dummy.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-dummy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-dummy.m247"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Pods-Bolts-dummy.o Pods-Bolts-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler56998d1ff3afb941^a8acaa1ff3afb941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-dummy.m0000000000000000^4257"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Pods-Bolts-dummy.o Pods-Bolts-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-gtaasaokawhwlvaicrxiieimbvok/Pods-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Pods-Bolts-dummy.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Pods-Bolts-dummy.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-dummy.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Pods-Bolts-dummy.o36"1D266C7A-E2B4-473E-9D7D-E1FBCAD86361-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/BFAppLink.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLink.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/BFAppLinkNavigation.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/BFAppLinkReturnToRefererController.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/BFAppLinkReturnToRefererView.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/BFAppLinkTarget.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/BFExecutor.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFExecutor.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/BFMeasurementEvent.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/BFTask.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTask.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/BFTaskCompletionSource.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/BFURL.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFURL.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/BFWebViewAppLinkResolver.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/Bolts.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Bolts/Bolts/Common/Bolts.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/Pods-Bolts-dummy.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCreateUniversalBinary /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-Bolts.a normal armv7\ armv7s\ arm64
+r0
+
+CLibtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/arm64/libPods-Bolts.a normal arm64
+r0
+
+CLibtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/libPods-Bolts.a normal armv7
+r0
+
+CLibtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7s/libPods-Bolts.a normal armv7s
+r0
+
+CLibtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-Bolts.a normal armv7
+s430961439.664270
+e430961439.673558
+r1
+xLibtool
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-Bolts.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Libtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-Bolts.a normal armv7114"Libtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-Bolts.a normal armv7111daa1ff3afb941^e547b01ff3afb941^---0#0#1#--1008"Libtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-Bolts.a normal armv7    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -filelist /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Objects-normal/armv7/Pods-Bolts.LinkFileList -framework Foundation -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-Bolts.a36"AC5E921E-578D-4BE8-B36C-DE4E2DE36C16-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961434.731680
+e430961437.834620
+r1
+xProcessPCH
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch.pch
+xPods-Bolts-prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-prefix.pch
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile Pods-Bolts-prefix.pch261"ProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0a82bb1af3afb941^7fa3d51df3afb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-prefix.pch0000000000000000^4173"ProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch.dia -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch.d -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-prefix.pch -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-bwiydsrnwbuegzcivptjvrpzrgyd/Pods-Bolts-prefix.pch.pch36"2E9E6CD9-8192-4823-A74E-4D9A85C055B1-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-dbcvzmkojbuukgeaigsvyhoumyrk/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-enavdiflrjpwwaginjwwpozbazmh/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-fdzuvihimuksaheqcapafossmhxb/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-gtaasaokawhwlvaicrxiieimbvok/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961434.732600
+e430961438.895986
+r1
+xProcessPCH
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-gtaasaokawhwlvaicrxiieimbvok/Pods-Bolts-prefix.pch.pch
+xPods-Bolts-prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-prefix.pch
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile Pods-Bolts-prefix.pch261"ProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-gtaasaokawhwlvaicrxiieimbvok/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler8ae4bb1af3afb941^dd5fe51ef3afb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-prefix.pch0000000000000000^4139"ProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-gtaasaokawhwlvaicrxiieimbvok/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/Pods-Bolts-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Bolts.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-gtaasaokawhwlvaicrxiieimbvok/Pods-Bolts-prefix.pch.dia -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-gtaasaokawhwlvaicrxiieimbvok/Pods-Bolts-prefix.pch.d -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-Bolts-prefix.pch -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-gtaasaokawhwlvaicrxiieimbvok/Pods-Bolts-prefix.pch.pch36"9F75A8E0-7314-44C8-AA69-2BB63492B342-
+b2778DA2C-F0D5-4CB2-9F1F-AB010BBDB46A
+
+CProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-Bolts-prefix-hlajgaclhvjwctbgicvmszvjuvei/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/michaelstromer/Library/Developer/Xcode/DerivedData/Liquidate-brasqpwrwungqyghkvchosfdvznu/Index/PrecompiledHeaders/Pods-Bolts-prefix-anfumanfdhvmapconfaipxjlcjfr_ast/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/michaelstromer/Library/Developer/Xcode/DerivedData/Liquidate-brasqpwrwungqyghkvchosfdvznu/Index/PrecompiledHeaders/Pods-Bolts-prefix-bwdjbwczvtuvgugyrnjtppwvljbo_ast/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/michaelstromer/Library/Developer/Xcode/DerivedData/Liquidate-brasqpwrwungqyghkvchosfdvznu/Index/PrecompiledHeaders/Pods-Bolts-prefix-ddnzvrweiascuebhxgucdasmgjsj_ast/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/michaelstromer/Library/Developer/Xcode/DerivedData/Liquidate-brasqpwrwungqyghkvchosfdvznu/Index/PrecompiledHeaders/Pods-Bolts-prefix-ebbbgerpdguevibqbfppickyieyv_ast/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/michaelstromer/Library/Developer/Xcode/DerivedData/Liquidate-brasqpwrwungqyghkvchosfdvznu/Index/PrecompiledHeaders/Pods-Bolts-prefix-ghsgdqpbzycwahdzajkdphiyunqr_ast/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/michaelstromer/Library/Developer/Xcode/DerivedData/Liquidate-brasqpwrwungqyghkvchosfdvznu/Index/PrecompiledHeaders/Pods-Bolts-prefix-hguyshooqxtqmdfygrlfbjnizfkf_ast/Pods-Bolts-prefix.pch.pch Pods-Bolts-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

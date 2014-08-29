@@ -1,0 +1,170 @@
+TPods-JSQSystemSoundPlayer
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-blxxewxaxtdsgzfvgarmzwedwtpl/Pods-JSQSystemSoundPlayer-prefix.pch.pch Pods-JSQSystemSoundPlayer-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-ftdieqqocekididqwfaycthnlmvk/Pods-JSQSystemSoundPlayer-prefix.pch.pch Pods-JSQSystemSoundPlayer-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/JSQSystemSoundPlayer.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/Pods-JSQSystemSoundPlayer-dummy.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-JSQSystemSoundPlayer.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c0000000053F4C086000000000000036B
+t1408548998
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053F4C086000000000000019E
+t1408548998
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000053F4C0880000000000CF7800
+t1408549000
+s13596672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053F4C0890000000000A90C10
+t1408549001
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053F4C10F0000000000000ADC
+t1408549135
+s2780
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/JSQSystemSoundPlayer.o
+t1409268638
+s43352
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/Pods-JSQSystemSoundPlayer-dummy.o
+t1409268637
+s3860
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/Pods-JSQSystemSoundPlayer.LinkFileList
+c0000000053F74AC7000000000000015F
+t1408715463
+s351
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-blxxewxaxtdsgzfvgarmzwedwtpl/Pods-JSQSystemSoundPlayer-prefix.pch.pch
+t1409268637
+s92196
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-ftdieqqocekididqwfaycthnlmvk/Pods-JSQSystemSoundPlayer-prefix.pch.pch
+t1409268637
+s91796
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-JSQSystemSoundPlayer.a
+t2
+s0
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.m
+c0000000053F649FE0000000000002DE9
+t1408649726
+s11753
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-dummy.m
+c0000000053FC9372000000000000009A
+t1409061746
+s154
+
+N/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-prefix.pch
+c0000000053FC9372000000000000004D
+t1409061746
+s77
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies20cf761af3afb941^37fd9d1af3afb941^---0#1#1#--18"Check dependencies36"3AF22BC1-BDDE-4C07-94B3-2D69AAD24E09-
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/JSQSystemSoundPlayer.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961437.862570
+e430961438.266841
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/JSQSystemSoundPlayer.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.m
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.m320"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/JSQSystemSoundPlayer.o JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5feddc1df3afb941^274c441ef3afb941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.m0000000000000000^4647"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/JSQSystemSoundPlayer.o JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-blxxewxaxtdsgzfvgarmzwedwtpl/Pods-JSQSystemSoundPlayer-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/JSQSystemSoundPlayer.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/JSQSystemSoundPlayer.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/JSQSystemSoundPlayer.o36"3A5CC773-DD05-4A48-B153-850156671BAC-
+b2DE3D50C-7CD3-4749-8E39-EACD04271491
+
+CCompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/Pods-JSQSystemSoundPlayer-dummy.o /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961437.870882
+e430961437.926852
+r1
+xCompileC
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/Pods-JSQSystemSoundPlayer-dummy.o
+x/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-dummy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-dummy.m292"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/Pods-JSQSystemSoundPlayer-dummy.o Pods-JSQSystemSoundPlayer-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerd40edf1df3afb941^aa48ed1df3afb941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-dummy.m0000000000000000^4602"CompileC /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/Pods-JSQSystemSoundPlayer-dummy.o Pods-JSQSystemSoundPlayer-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -include /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-ftdieqqocekididqwfaycthnlmvk/Pods-JSQSystemSoundPlayer-prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/Pods-JSQSystemSoundPlayer-dummy.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/Pods-JSQSystemSoundPlayer-dummy.dia -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-dummy.m -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/Pods-JSQSystemSoundPlayer-dummy.o36"69A6DC57-936B-44D4-9724-A4268BCD4E4D-
+b2DE3D50C-7CD3-4749-8E39-EACD04271491
+
+CLibtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-JSQSystemSoundPlayer.a normal armv7
+s430961438.350438
+e430961438.405846
+r1
+xLibtool
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-JSQSystemSoundPlayer.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Libtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-JSQSystemSoundPlayer.a normal armv7129"Libtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-JSQSystemSoundPlayer.a normal armv7b8cc591ef3afb941^fbe5671ef3afb941^---0#0#1#--1092"Libtool /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-JSQSystemSoundPlayer.a normal armv7    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -filelist /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Objects-normal/armv7/Pods-JSQSystemSoundPlayer.LinkFileList -framework AudioToolbox -framework Foundation -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/libPods-JSQSystemSoundPlayer.a36"943B0994-112C-4812-8D23-33BAAC31FAA3-
+b2DE3D50C-7CD3-4749-8E39-EACD04271491
+
+CProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-blxxewxaxtdsgzfvgarmzwedwtpl/Pods-JSQSystemSoundPlayer-prefix.pch.pch Pods-JSQSystemSoundPlayer-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961434.618236
+e430961437.861887
+r1
+xProcessPCH
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-blxxewxaxtdsgzfvgarmzwedwtpl/Pods-JSQSystemSoundPlayer-prefix.pch.pch
+xPods-JSQSystemSoundPlayer-prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-prefix.pch
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile Pods-JSQSystemSoundPlayer-prefix.pch306"ProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-blxxewxaxtdsgzfvgarmzwedwtpl/Pods-JSQSystemSoundPlayer-prefix.pch.pch Pods-JSQSystemSoundPlayer-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb4779e1af3afb941^c2a4dc1df3afb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-prefix.pch0000000000000000^4465"ProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-blxxewxaxtdsgzfvgarmzwedwtpl/Pods-JSQSystemSoundPlayer-prefix.pch.pch Pods-JSQSystemSoundPlayer-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos -fobjc-arc --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-blxxewxaxtdsgzfvgarmzwedwtpl/Pods-JSQSystemSoundPlayer-prefix.pch.dia -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-blxxewxaxtdsgzfvgarmzwedwtpl/Pods-JSQSystemSoundPlayer-prefix.pch.d -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-prefix.pch -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-blxxewxaxtdsgzfvgarmzwedwtpl/Pods-JSQSystemSoundPlayer-prefix.pch.pch36"3006E2CC-6251-427F-B6A4-F8CFC61D749F-
+b2DE3D50C-7CD3-4749-8E39-EACD04271491
+
+CProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-ftdieqqocekididqwfaycthnlmvk/Pods-JSQSystemSoundPlayer-prefix.pch.pch Pods-JSQSystemSoundPlayer-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430961434.618887
+e430961437.833946
+r1
+xProcessPCH
+x/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-ftdieqqocekididqwfaycthnlmvk/Pods-JSQSystemSoundPlayer-prefix.pch.pch
+xPods-JSQSystemSoundPlayer-prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-prefix.pch
+d/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile Pods-JSQSystemSoundPlayer-prefix.pch306"ProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-ftdieqqocekididqwfaycthnlmvk/Pods-JSQSystemSoundPlayer-prefix.pch.pch Pods-JSQSystemSoundPlayer-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4f969e1af3afb941^187dd51df3afb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-prefix.pch0000000000000000^4454"ProcessPCH /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-ftdieqqocekididqwfaycthnlmvk/Pods-JSQSystemSoundPlayer-prefix.pch.pch Pods-JSQSystemSoundPlayer-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Liquidate/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/Pods-JSQSystemSoundPlayer-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos/include -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/BuildHeaders/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Bolts -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSMessagesViewController -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/JSQSystemSoundPlayer -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Mixpanel -I/Users/michaelstromer/Documents/Codes/Liquidate/Pods/Headers/Parse -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-JSQSystemSoundPlayer.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Liquidate/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-ftdieqqocekididqwfaycthnlmvk/Pods-JSQSystemSoundPlayer-prefix.pch.dia -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-ftdieqqocekididqwfaycthnlmvk/Pods-JSQSystemSoundPlayer-prefix.pch.d -c /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Pods-JSQSystemSoundPlayer-prefix.pch -o /Users/michaelstromer/Documents/Codes/Liquidate/Build/Intermediates/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-ftdieqqocekididqwfaycthnlmvk/Pods-JSQSystemSoundPlayer-prefix.pch.pch36"418CC68C-A355-4957-8566-1FE55423366D-
+b2DE3D50C-7CD3-4749-8E39-EACD04271491
+
+CProcessPCH /Users/michaelstromer/Library/Developer/Xcode/DerivedData/Liquidate-brasqpwrwungqyghkvchosfdvznu/Index/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-adxdssoywbupneblmofaugcbjqat_ast/Pods-JSQSystemSoundPlayer-prefix.pch.pch Pods-JSQSystemSoundPlayer-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/michaelstromer/Library/Developer/Xcode/DerivedData/Liquidate-brasqpwrwungqyghkvchosfdvznu/Index/PrecompiledHeaders/Pods-JSQSystemSoundPlayer-prefix-elnnrlvwiszcgjghmpgtcwbmqevc_ast/Pods-JSQSystemSoundPlayer-prefix.pch.pch Pods-JSQSystemSoundPlayer-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

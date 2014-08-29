@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/UI/FBLoginView.m \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBLoginView.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBGraphUser.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBGraphPerson.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBGraphPlace.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBGraphLocation.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBTooltipView.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Insights/FBAppEvents+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBAppEvents.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBError.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBLoginTooltipView.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBLoginViewButtonPNG.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBLoginViewButtonPressedPNG.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBProfilePictureView.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBRequest.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBOpenGraphObject.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBRequestConnection.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Network/FBRequestConnection+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Network/FBRequestMetadata.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Login/FBSession+Internal.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Login/FBSessionAppEventsState.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Login/FBSystemAccountStoreAdapter.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBTask.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/FBTaskCompletionSource.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Core/FBUtility.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Core/FBFetchedAppSettings.h \
+  /Users/michaelstromer/Documents/Codes/Liquidate/Pods/Facebook-iOS-SDK/src/Core/FBLogger.h
